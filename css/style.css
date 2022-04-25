@@ -1,0 +1,38 @@
+/*
+function updateProductTable{
+
+    var product={
+        name:productNameInput.value,
+        price:productPriceInput.value,
+        category:productCategoryInput.value,
+        desc:productDescInput.value
+   
+    }
+
+    productsContainer[currentIndex].name=product.name;
+    productsContainer[currentIndex].price=product.price;
+    productsContainer[currentIndex].category=product.category;
+    productsContainer[currentIndex].desc=product.desc;
+
+
+    
+
+
+
+}
+
+
+
+function updatProduct(index){
+
+    currentIndex = index
+ productNameInput.value= productsContainer[index].name;
+ productPriceInput.value= productsContainer[index].price;
+ productCategoryInput.value= productsContainer[index].category;
+ productDescInput.value= productsContainer[index].desc;
+ mainBtn.innerHTML="Update Product"
+
+
+
+}
+*/
